@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Customer",
+				"Customer"
+			],
+			[
+				"Address",
+				"Address"
+			],
+			[
+				"po",
+				"postcode"
+			],
+			[
+				"lin",
+				"line1"
+			],
+			[
+				"line",
+				"line1"
+			],
+			[
+				"last",
+				"lastname"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"someone",
+				"someoneelse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/html.sublime-build",
+	"command_palette":
+	{
+		"height": 140.0,
+		"selected_items":
+		[
+			[
+				"subl",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"li",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git com",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git commit",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git comm",
+				"Set Syntax: Git Commit Message"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 122.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Darren/Dropbox/dev/js-best-practices/class-functions.html",
+		"/Users/Darren/Dropbox/dev/js-best-practices/objects-prototype.html",
+		"/Users/Darren/Dropbox/dev/js-best-practices/objects-prototype.js",
+		"/Users/Darren/Dropbox/dev/js-best-practices/private-variables.html",
+		"/Users/Darren/Dropbox/dev/js-best-practices/private-variables.js",
+		"/Users/Darren/Dropbox/dev/js-best-practices/class-functions.js",
+		"/Users/Darren/Dropbox/dev/js-best-practices/class-functions",
+		"/Users/Darren/Dropbox/dev/testrepo/second",
+		"/Users/Darren/Dropbox/dev/testrepo/first",
+		"/Users/Darren/Dropbox/dev/testrepo/untitled",
+		"/Users/Darren/Dropbox/dev/Claims Questions",
+		"/Users/Darren/Dropbox/dev/person.js",
+		"/Users/Darren/Dropbox/dev/test.html",
+		"/Users/Darren/Dropbox/dev/test.js",
+		"/Users/Darren/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/Darren/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/Base File.sublime-settings",
+		"/Users/Darren/Dropbox/dev/firstjs.sublime-project"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bob"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"wilma"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 121.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Darren/Dropbox/dev/js-best-practices/js-practices.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
