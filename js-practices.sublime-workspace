@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"privateNu",
+				"privateNumber"
+			],
+			[
 				"Customer",
 				"Customer"
 			],
@@ -104,11 +108,12 @@
 	},
 	"file_history":
 	[
-		"/Users/Darren/Dropbox/dev/js-best-practices/class-functions.html",
-		"/Users/Darren/Dropbox/dev/js-best-practices/objects-prototype.html",
-		"/Users/Darren/Dropbox/dev/js-best-practices/objects-prototype.js",
-		"/Users/Darren/Dropbox/dev/js-best-practices/private-variables.html",
 		"/Users/Darren/Dropbox/dev/js-best-practices/private-variables.js",
+		"/Users/Darren/Dropbox/dev/js-best-practices/private-variables.html",
+		"/Users/Darren/Dropbox/dev/js-best-practices/objects-prototype.js",
+		"/Users/Darren/Dropbox/dev/js-best-practices/objects-prototype.html",
+		"/Users/Darren/Dropbox/dev/js-best-practices/class-functions.html",
+		"/Users/Darren/Dropbox/dev/js-best-practices/js-practices.sublime-project",
 		"/Users/Darren/Dropbox/dev/js-best-practices/class-functions.js",
 		"/Users/Darren/Dropbox/dev/js-best-practices/class-functions",
 		"/Users/Darren/Dropbox/dev/testrepo/second",
@@ -193,14 +198,6 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 110.0
-	},
-	"output.jslint_result_view":
-	{
-		"height": 121.0
-	},
 	"replace":
 	{
 		"height": 62.0
@@ -230,6 +227,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 305.0,
 	"status_bar_visible": true
 }

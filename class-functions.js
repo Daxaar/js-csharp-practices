@@ -33,7 +33,7 @@
 }(window.JQuery || {}, undefined));
 /*
 We're a self executing anonymous function for better scoping.  Not required for this sample but good to get
-into the habit.  The funky statement in parens essentially says pass in JQuery off the global window object 
+into the habit.  The funky statement in parens essentially says pass in JQuery from the global window object 
 as long as it isn't undefined || if it is undefined then send in a new empty object instance.
 The undefined param protects against the malicious update of undefined
 */
