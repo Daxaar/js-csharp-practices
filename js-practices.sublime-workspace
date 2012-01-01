@@ -43,6 +43,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "class-functions.js",
+			"settings":
+			{
+				"buffer_size": 1694,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/User/html.sublime-build",
 	"command_palette":
@@ -108,12 +116,12 @@
 	},
 	"file_history":
 	[
+		"/Users/Darren/Dropbox/dev/js-best-practices/js-practices.sublime-project",
 		"/Users/Darren/Dropbox/dev/js-best-practices/private-variables.js",
 		"/Users/Darren/Dropbox/dev/js-best-practices/private-variables.html",
 		"/Users/Darren/Dropbox/dev/js-best-practices/objects-prototype.js",
 		"/Users/Darren/Dropbox/dev/js-best-practices/objects-prototype.html",
 		"/Users/Darren/Dropbox/dev/js-best-practices/class-functions.html",
-		"/Users/Darren/Dropbox/dev/js-best-practices/js-practices.sublime-project",
 		"/Users/Darren/Dropbox/dev/js-best-practices/class-functions.js",
 		"/Users/Darren/Dropbox/dev/js-best-practices/class-functions",
 		"/Users/Darren/Dropbox/dev/testrepo/second",
@@ -162,14 +170,42 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "class-functions.js",
+					"settings":
+					{
+						"buffer_size": 1694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1047,
+								1047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 32.0
 	},
 	"input":
 	{

@@ -1,4 +1,5 @@
-
+/*
+This module demonstrates the prototypal behaviour of javascript
 function Customer(firstName, lastName)
 {
 	this.firstName = firstName;
