@@ -21,7 +21,7 @@
 
 	//Consider this a class definition with a ctor taking two params ( same as Customer )
 	//This is scoped to the function level also
-	function Address (line1, postcode) {
+	function Address(line1, postcode) {
 		this.line1 = line1;
 		this.postcode = postcode;
 	}
@@ -39,15 +39,16 @@
 This funky bit down here shows this is a self executing anonymous function.  Not required for this sample 
 but good to get into the habit for better scoping.  The funky statement in parens essentially says pass 
 in JQuery from the global window object as long as it isn't undefined || if it is undefined then send in 
-a new empty object instance.  The undefined param protects against the malicious update of undefined
+a new empty object instance.  The undefined param protects against the malicious modification of undefined
+at the global level
 */
 
 //This will be out of scope as Address is only available within the anon func
-var a = new Address("here","postcode");
+var a = new Address("here", "postcode");
 console.log(a.postcode);
 
 //Customer is out of scope also as we declared through var so it has function scope
-var c = new Customer("daz","lewis");
+var c = new Customer("daz", "lewis");
 console.log(c.firstName);
 
 /*
