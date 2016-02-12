@@ -1,6 +1,6 @@
 (function (customer) {
 
-	//Using var makes this is a private scoped variable
+	//Using var makes this a private scoped variable
 	var privateNumber = 100;
 	//this however is globally scoped
 	anotherNumber = 200;
